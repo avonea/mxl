@@ -62,7 +62,11 @@ A binary that uses the gstreamer element 'videotestsrc' to produce video grains 
 {
   "description": "MXL Test File",
   "id": "5fbec3b1-1b0f-417d-9059-8b94a47197ef",
-  "tags": {},
+  "tags": {
+    "urn:x-nmos:tag:grouphint/v1.0": [
+      "Media Function XYZ:Video"
+    ]
+  },
   "format": "urn:x-nmos:format:video",
   "label": "MXL Test File",
   "parents": [],
