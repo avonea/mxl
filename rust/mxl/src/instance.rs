@@ -100,7 +100,8 @@ impl MxlInstance {
             Error::from_status(self.context.api.create_flow_writer(
                 self.context.instance,
                 flow_def.as_ptr(),
-                options.map(|cs| cs.as_ptr()).unwrap_or(std::ptr::null()),
+                // Need to use .as_ref() because otherwise the `options` pointer will become dangling
+                options.as_ref().map(|cs| cs.as_ptr()).unwrap_or(std::ptr::null()),
                 &mut writer,
                 info_unsafe.as_mut_ptr(),
                 &mut was_created,
