@@ -1,0 +1,17 @@
+<map id="mxlFlowInfo_t" name="mxlFlowInfo_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="868,128,983,156"/>
+<area shape="rect" id="Node000002" href="$structmxlFlowConfigInfo__t.html" title=" " alt="" coords="599,100,754,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="770,122,870,136,865,136,770,127"/>
+<area shape="rect" id="Node000003" href="$structmxlCommonFlowConfigInfo__t.html" title=" " alt="" coords="244,16,458,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,43,569,65,611,81,650,100,645,100,609,86,567,70,473,49"/>
+<area shape="rect" id="Node000004" href="$structmxlRational__t.html" title=" " alt="" coords="5,16,118,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="133,28,245,29,241,32,134,33"/>
+<area shape="rect" id="Node000005" href="$structmxlDiscreteFlowConfigInfo__t.html" title=" " alt="" coords="246,72,456,100"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="471,94,601,107,596,108,471,99"/>
+<area shape="rect" id="Node000006" href="$structmxlContinuousFlowConfigInfo__t.html" title=" " alt="" coords="237,128,465,156"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="481,139,568,133,608,129,613,128,568,138,481,144"/>
+<area shape="rect" id="Node000007" href="$structmxlEventFlowConfigInfo__t.html" title="Immutable event queue capacity and entry payload geometry (64 bytes). This is the event member of mxl..." alt="" coords="255,184,447,212"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="462,197,516,188,567,169,578,157,590,143,622,130,627,128,594,147,582,161,569,174,517,193,462,202"/>
+<area shape="rect" id="Node000008" href="$structmxlFlowRuntimeInfo__t.html" title=" " alt="" coords="592,156,761,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="777,167,844,161,873,157,879,156,845,166,777,172"/>
+</map>

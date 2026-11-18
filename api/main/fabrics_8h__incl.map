@@ -1,0 +1,31 @@
+<map id="lib/fabrics/include/mxl/fabrics.h" name="lib/fabrics/include/mxl/fabrics.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,5,571,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="254,174,328,201"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,49,322,166,319,162,472,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="417,325,488,353"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,38,335,59,277,75,218,97,159,124,103,159,54,201,13,251,8,264,13,275,39,294,79,308,130,319,186,327,304,335,404,338,399,339,303,340,186,332,129,325,78,314,37,299,9,279,3,264,9,248,50,197,100,155,156,120,216,92,276,70,334,54,437,35"/>
+<area shape="rect" id="Node000004" href="$flow_8h.html" title="Public flow reader, writer, payload and synchronization APIs." alt="" coords="459,98,547,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="504,48,505,84,501,81,502,53"/>
+<area shape="rect" id="Node000010" href="$mxl_8h.html" title=" " alt="" coords="591,174,679,201"/>
+<area shape="poly" id="edge17_Node000001_Node000010" title=" " alt="" coords="522,48,617,161,612,161,520,53"/>
+<area shape="rect" id="Node000011" href="$platform_8h.html" title=" " alt="" coords="697,249,816,277"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="537,48,612,101,654,135,693,172,720,204,743,237,738,235,716,207,689,176,650,139,609,105,536,53"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="463,127,344,171,342,166,468,125"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="503,125,461,311,456,309,498,127"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="541,249,622,277"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="511,124,570,236,565,235,508,128"/>
+<area shape="rect" id="Node000006" href="$flowinfo_8h.html" title="Public configuration and runtime metadata for MXL flows." alt="" coords="351,174,466,201"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="488,125,439,166,436,162,484,128"/>
+<area shape="poly" id="edge13_Node000004_Node000010" title=" " alt="" coords="527,124,601,166,596,166,526,129"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="414,200,430,249,447,311,442,309,424,250,411,204"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="159,249,255,277"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="370,203,258,246,256,241,375,201"/>
+<area shape="rect" id="Node000008" href="$dataformat_8h.html" title="Public flow format identifiers and format classification helpers." alt="" coords="279,249,415,277"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="400,200,369,240,366,235,395,203"/>
+<area shape="rect" id="Node000009" href="$rational_8h.html" title=" " alt="" coords="23,249,135,277"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="350,204,151,249,150,243,351,199"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="136,273,403,325,401,330,135,278"/>
+<area shape="poly" id="edge15_Node000010_Node000003" title=" " alt="" coords="641,199,648,238,646,259,637,279,609,305,575,323,538,334,503,339,503,333,537,328,573,318,606,301,633,275,641,258,643,238,638,204"/>
+<area shape="poly" id="edge14_Node000010_Node000005" title=" " alt="" coords="628,201,602,239,599,235,623,203"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="657,199,725,241,719,241,656,204"/>
+</map>

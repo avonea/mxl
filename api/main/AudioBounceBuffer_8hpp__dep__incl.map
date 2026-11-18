@@ -1,0 +1,20 @@
+<map id="lib/fabrics/ofi/src/internal/AudioBounceBuffer.hpp" name="lib/fabrics/ofi/src/internal/AudioBounceBuffer.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,5,671,50"/>
+<area shape="rect" id="Node000002" href="$AudioBounceBuffer_8cpp.html" title=" " alt="" coords="5,98,235,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,56,225,100,224,95,439,52"/>
+<area shape="rect" id="Node000003" href="$ProtocolEgressRMA_8cpp.html" title=" " alt="" coords="220,191,452,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,50,349,72,319,85,301,100,293,121,296,145,307,168,321,191,316,190,302,171,291,146,288,120,297,96,316,81,347,67,428,48"/>
+<area shape="rect" id="Node000004" href="$ProtocolEgressRMA_8hpp.html" title=" " alt="" coords="310,98,543,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="516,58,459,100,456,95,511,60"/>
+<area shape="rect" id="Node000006" href="$ProtocolIngressRMA_8cpp.html" title=" " alt="" coords="707,191,944,235"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="687,46,767,67,799,81,819,96,832,119,836,144,833,192,829,188,831,144,827,121,815,100,796,85,766,72,687,52"/>
+<area shape="rect" id="Node000007" href="$ProtocolIngressRMA_8hpp.html" title=" " alt="" coords="568,98,805,143"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="600,56,658,98,653,97,599,61"/>
+<area shape="rect" id="Node000008" href="$test__AudioBounceBuffer_8cpp.html" title=" " alt="" coords="880,98,1088,143"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="674,51,884,97,879,98,673,56"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="397,153,359,193,356,188,392,155"/>
+<area shape="rect" id="Node000005" href="$Protocol_8cpp.html" title=" " alt="" coords="508,191,668,235"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="479,148,552,191,547,190,478,153"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="655,152,613,193,610,188,650,154"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="733,149,795,191,790,190,732,154"/>
+</map>
